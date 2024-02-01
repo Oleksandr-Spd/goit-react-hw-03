@@ -1,0 +1,10 @@
+.box {
+        height: "100%";
+        display: "flex";
+        gap: 20;
+        flex-direction: "column";
+        justify-Content: "center";
+        align-Items: "center";
+        font-Size: 20;
+        color: #010101;
+      }
